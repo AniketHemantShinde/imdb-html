@@ -1,0 +1,80 @@
+.navbar{
+background-color: black;
+}
+.mr-auto{
+margin: auto;
+}
+#dexter{
+    float: right;
+    margin-right: 100px;
+}
+#star{
+    position: relative;
+    border-bottom: 5px;
+}
+
+.first-row{
+    background-image: url("img/header-bg.png")
+}
+.day{
+color:skyblue;
+text-transform: uppercase;
+}
+.sandman{
+color:white;
+}
+.miami{
+    background-color:#797979;
+    width: 450px;
+    margin-top: 20px;
+    padding: 20px;
+
+}
+
+.movie-month{
+color: #a0a0a0;
+height: 20px;
+}
+.middle-row
+{
+    background-color: #efefef;
+}
+
+.divide-middle{
+    display: flex;
+}
+
+.divide-middle-color{
+    background-color: white;
+    margin-left: 25px;
+}
+
+.upper-poster{
+
+}
+.upper-movie-name{
+    color: #81add0
+
+}
+.upper-description{
+
+}
+.upper-rating{
+
+}
+
+
+.first-poster{
+
+}
+.first-movie-name{
+    color:#81add0
+
+}
+.first-description{
+
+}
+.first-rating{
+
+}
+
